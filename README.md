@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor de software com 6 anos de experiência em desenvolvimento de aplicações web e móveis. Atualmente trabalho como Dev Senior. Tenho paixão por criar soluções de software elegantes e eficientes para resolver problemas complexos.
+Sou um desenvolvedor de software com 7 anos de experiência em desenvolvimento de aplicações web e móveis. Atualmente trabalho como Dev Senior. Tenho paixão por criar soluções de software elegantes e eficientes para resolver problemas complexos.
 
 ### Habilidades
 
